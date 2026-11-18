@@ -327,7 +327,12 @@ namespace H5509_V2
 
             if (System.Threading.Interlocked.CompareExchange(ref _licenseAlarmRaised, 1, 0) == 0)
             {
-                try { form_alarm?.RaiseLicenseAlarm(); } catch { }
+                //try { form_alarm?.RaiseLicenseAlarm(); } catch { }
+
+                APPmaster.RunLog("[Code]1400499,[Msg]软件未授权", LogType.AlarmLog);
+                APPmaster.Listcode.Add("1400499");
+
+
             }
             return false;
         }
@@ -381,6 +386,8 @@ namespace H5509_V2
                 _授权到期下次提醒时间 = DateTime.Now.Add(授权到期提醒间隔);
 
                 try { form_alarm?.RaiseExpireSoonAlarm(message, 授权到期提醒显示秒); } catch { }
+                RunLog("",LogType.AlarmLog);
+                APPmaster.Listcode.Add("1400501");
             }
             catch { }
         }
@@ -687,7 +694,7 @@ namespace H5509_V2
 
         public static double Auto2上移固定距离 { get { return 初始点位.Auto2_分盘位 - 初始点位.Auto2_初始位; } }
 
-        
+
 
         #region 测试机配置参数
 

@@ -2587,7 +2587,9 @@ namespace H5509_V2
             if (result.IsValid)
             {
                 APPmaster.LicenseValid = true;
-                try { APPmaster.form_alarm?.ClearLicenseAlarm(); } catch { }
+                //try { APPmaster.form_alarm?.ClearLicenseAlarm(); } catch { }
+                
+
 
                 txt_lic_code.Clear();
                 MessageBox.Show(this,

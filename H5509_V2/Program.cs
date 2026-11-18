@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TextFileLogger;
 using TLicense;
 
 namespace H5509_V2
@@ -72,7 +73,11 @@ namespace H5509_V2
                 service.LicenseInvalidated += (s, result) =>
                 {
                     APPmaster.LicenseValid = false;
-                    try { APPmaster.form_alarm?.RaiseLicenseAlarm(); } catch { }
+                    //try { APPmaster.form_alarm?.RaiseLicenseAlarm(); } catch { }
+
+                    APPmaster.RunLog("[Code]1400499,[Msg]软件未授权", LogType.AlarmLog);
+                    APPmaster.Listcode.Add("1400499");
+
                 };
 
                 service.StartMonitor(TimeSpan.FromMinutes(1));

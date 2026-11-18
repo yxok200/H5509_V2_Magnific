@@ -3395,71 +3395,71 @@ namespace H5509_alarm
         public const string ExpireSoonAlarmCode = "1400501";
 
         /// <summary>触发“软件未授权”报警（重复调用只保留一条）</summary>
-        public void RaiseLicenseAlarm()
-        {
-            try
-            {
-                if (!IsHandleCreated || IsDisposed) return;
+        //public void RaiseLicenseAlarm()
+        //{
+        //    try
+        //    {
+        //        if (!IsHandleCreated || IsDisposed) return;
 
-                Invoke(new Action(() =>
-                {
-                    foreach (DataGridViewRow r in dataGridView_alarm.Rows)
-                    {
-                        if (Convert.ToString(r.Cells[0].Value) == LicenseAlarmCode)
-                        {
-                            ShowCode(LicenseAlarmCode, true);
-                            return;
-                        }
-                    }
+        //        Invoke(new Action(() =>
+        //        {
+        //            foreach (DataGridViewRow r in dataGridView_alarm.Rows)
+        //            {
+        //                if (Convert.ToString(r.Cells[0].Value) == LicenseAlarmCode)
+        //                {
+        //                    ShowCode(LicenseAlarmCode, true);
+        //                    return;
+        //                }
+        //            }
 
-                    var row = new DataGridViewRow();
-                    row.Cells.Add(new DataGridViewTextBoxCell { Value = LicenseAlarmCode });
-                    row.Cells.Add(new DataGridViewTextBoxCell { Value = "软件未授权" });
-                    row.Cells.Add(new DataGridViewTextBoxCell { Value = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") });
-                    dataGridView_alarm.Rows.Add(row);
+        //            var row = new DataGridViewRow();
+        //            row.Cells.Add(new DataGridViewTextBoxCell { Value = LicenseAlarmCode });
+        //            row.Cells.Add(new DataGridViewTextBoxCell { Value = "软件未授权" });
+        //            row.Cells.Add(new DataGridViewTextBoxCell { Value = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") });
+        //            dataGridView_alarm.Rows.Add(row);
 
-                    // 写入报警日志（报警日志页 / 日志文件 / Alarm.txt）
-                    try { RunLog("[Code]" + LicenseAlarmCode + ",[Msg]软件未授权", LogType.AlarmLog); } catch { }
+        //            // 写入报警日志（报警日志页 / 日志文件 / Alarm.txt）
+        //            try { RunLog("[Code]" + LicenseAlarmCode + ",[Msg]软件未授权", LogType.AlarmLog); } catch { }
 
-                    ShowCode(LicenseAlarmCode, true);
+        //            ShowCode(LicenseAlarmCode, true);
 
-                    if (!Visible) Show();
-                    Activate();
-                }));
-            }
-            catch { }
-        }
+        //            if (!Visible) Show();
+        //            Activate();
+        //        }));
+        //    }
+        //    catch { }
+        //}
 
         /// <summary>清除“软件未授权”报警（授权恢复后调用）</summary>
-        public void ClearLicenseAlarm()
-        {
-            try
-            {
-                if (!IsHandleCreated || IsDisposed) return;
+        //public void ClearLicenseAlarm()
+        //{
+        //    try
+        //    {
+        //        if (!IsHandleCreated || IsDisposed) return;
 
-                Invoke(new Action(() =>
-                {
-                    ShowCode(LicenseAlarmCode, false);
+        //        Invoke(new Action(() =>
+        //        {
+        //            ShowCode(LicenseAlarmCode, false);
 
-                    bool removed = false;
-                    for (int i = dataGridView_alarm.Rows.Count - 1; i >= 0; i--)
-                    {
-                        if (Convert.ToString(dataGridView_alarm.Rows[i].Cells[0].Value) == LicenseAlarmCode)
-                        {
-                            dataGridView_alarm.Rows.RemoveAt(i);
-                            removed = true;
-                        }
-                    }
+        //            bool removed = false;
+        //            for (int i = dataGridView_alarm.Rows.Count - 1; i >= 0; i--)
+        //            {
+        //                if (Convert.ToString(dataGridView_alarm.Rows[i].Cells[0].Value) == LicenseAlarmCode)
+        //                {
+        //                    dataGridView_alarm.Rows.RemoveAt(i);
+        //                    removed = true;
+        //                }
+        //            }
 
-                    // 解除也记一条操作日志，方便对账
-                    if (removed)
-                    {
-                        try { RunLog("[Code]" + LicenseAlarmCode + ",[Msg]软件未授权报警已解除（授权已恢复）", LogType.OperateLog); } catch { }
-                    }
-                }));
-            }
-            catch { }
-        }
+        //            // 解除也记一条操作日志，方便对账
+        //            if (removed)
+        //            {
+        //                try { RunLog("[Code]" + LicenseAlarmCode + ",[Msg]软件未授权报警已解除（授权已恢复）", LogType.OperateLog); } catch { }
+        //            }
+        //        }));
+        //    }
+        //    catch { }
+        //}
 
         /// <summary>
         /// “授权即将到期”提醒：加到报警列表并写报警日志，N 秒后自动消失（不常驻，避免一直亮红灯）。
@@ -3503,21 +3503,21 @@ namespace H5509_alarm
             catch { }
         }
 
-        private void RemoveExpireSoonAlarm()
-        {
-            bool removed = false;
+        //private void RemoveExpireSoonAlarm()
+        //{
+        //    bool removed = false;
 
-            for (int i = dataGridView_alarm.Rows.Count - 1; i >= 0; i--)
-            {
-                if (Convert.ToString(dataGridView_alarm.Rows[i].Cells[0].Value) == ExpireSoonAlarmCode)
-                {
-                    dataGridView_alarm.Rows.RemoveAt(i);
-                    removed = true;
-                }
-            }
+        //    for (int i = dataGridView_alarm.Rows.Count - 1; i >= 0; i--)
+        //    {
+        //        if (Convert.ToString(dataGridView_alarm.Rows[i].Cells[0].Value) == ExpireSoonAlarmCode)
+        //        {
+        //            dataGridView_alarm.Rows.RemoveAt(i);
+        //            removed = true;
+        //        }
+        //    }
 
-            if (removed) ShowCode(ExpireSoonAlarmCode, false);
-        }
+        //    if (removed) ShowCode(ExpireSoonAlarmCode, false);
+        //}
 
         public bool 判断是否有dut放歪报警()
         {
