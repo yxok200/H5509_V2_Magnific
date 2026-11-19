@@ -28,3 +28,9 @@ C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\TextF
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\TextFileLogger\obj\Debug\TextFileLogger.csproj.CoreCompileInputs.cache
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\TextFileLogger\obj\Debug\TextFileLogger.dll
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\TextFileLogger\obj\Debug\TextFileLogger.pdb
+D:\github\H5509_V2_Magnific\TextFileLogger\bin\Debug\TextFileLogger.dll
+D:\github\H5509_V2_Magnific\TextFileLogger\bin\Debug\TextFileLogger.pdb
+D:\github\H5509_V2_Magnific\TextFileLogger\obj\Debug\TextFileLogger.csproj.AssemblyReference.cache
+D:\github\H5509_V2_Magnific\TextFileLogger\obj\Debug\TextFileLogger.csproj.CoreCompileInputs.cache
+D:\github\H5509_V2_Magnific\TextFileLogger\obj\Debug\TextFileLogger.dll
+D:\github\H5509_V2_Magnific\TextFileLogger\obj\Debug\TextFileLogger.pdb

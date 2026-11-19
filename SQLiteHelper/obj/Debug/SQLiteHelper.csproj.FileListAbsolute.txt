@@ -38,3 +38,11 @@ C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\SQLit
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\SQLiteHelper\obj\Debug\SQLiteHe.64E32CF6.Up2Date
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\SQLiteHelper\obj\Debug\SQLiteHelper.dll
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\SQLiteHelper\obj\Debug\SQLiteHelper.pdb
+D:\github\H5509_V2_Magnific\SQLiteHelper\bin\Debug\SQLiteHelper.dll
+D:\github\H5509_V2_Magnific\SQLiteHelper\bin\Debug\SQLiteHelper.pdb
+D:\github\H5509_V2_Magnific\SQLiteHelper\bin\Debug\System.Data.SQLite.dll
+D:\github\H5509_V2_Magnific\SQLiteHelper\obj\Debug\SQLiteHelper.csproj.AssemblyReference.cache
+D:\github\H5509_V2_Magnific\SQLiteHelper\obj\Debug\SQLiteHelper.csproj.CoreCompileInputs.cache
+D:\github\H5509_V2_Magnific\SQLiteHelper\obj\Debug\SQLiteHelper.csproj.CopyComplete
+D:\github\H5509_V2_Magnific\SQLiteHelper\obj\Debug\SQLiteHelper.dll
+D:\github\H5509_V2_Magnific\SQLiteHelper\obj\Debug\SQLiteHelper.pdb

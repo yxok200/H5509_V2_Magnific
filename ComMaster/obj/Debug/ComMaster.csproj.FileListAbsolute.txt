@@ -21,3 +21,11 @@ C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\ComMa
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\ComMaster\obj\Debug\ComMaster.csproj.Up2Date
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\ComMaster\obj\Debug\ComMaster.dll
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\ComMaster\obj\Debug\ComMaster.pdb
+D:\github\H5509_V2_Magnific\ComMaster\bin\Debug\ComMaster.dll
+D:\github\H5509_V2_Magnific\ComMaster\bin\Debug\ComMaster.pdb
+D:\github\H5509_V2_Magnific\ComMaster\bin\Debug\Newtonsoft.Json.dll
+D:\github\H5509_V2_Magnific\ComMaster\obj\Debug\ComMaster.csproj.AssemblyReference.cache
+D:\github\H5509_V2_Magnific\ComMaster\obj\Debug\ComMaster.csproj.CoreCompileInputs.cache
+D:\github\H5509_V2_Magnific\ComMaster\obj\Debug\ComMaster.csproj.CopyComplete
+D:\github\H5509_V2_Magnific\ComMaster\obj\Debug\ComMaster.dll
+D:\github\H5509_V2_Magnific\ComMaster\obj\Debug\ComMaster.pdb

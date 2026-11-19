@@ -4417,6 +4417,7 @@ namespace H5509_V2
                             }
                             else
                             {
+                                //form_alarm.报警已关闭 = true;
                                 RunLog("按下暂停", LogType.OperateLog);
                             }
 

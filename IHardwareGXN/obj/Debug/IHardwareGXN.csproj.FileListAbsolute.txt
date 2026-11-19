@@ -52,3 +52,12 @@ C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\IHard
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\IHardwareGXN\obj\Debug\IHardwar.F03A60EF.Up2Date
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\IHardwareGXN\obj\Debug\IHardwareGXN.dll
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\IHardwareGXN\obj\Debug\IHardwareGXN.pdb
+D:\github\H5509_V2_Magnific\IHardwareGXN\bin\Debug\IHardwareGXN.dll
+D:\github\H5509_V2_Magnific\IHardwareGXN\bin\Debug\IHardwareGXN.pdb
+D:\github\H5509_V2_Magnific\IHardwareGXN\bin\Debug\MotionCommon.dll
+D:\github\H5509_V2_Magnific\IHardwareGXN\bin\Debug\MotionCommon.pdb
+D:\github\H5509_V2_Magnific\IHardwareGXN\obj\Debug\IHardwareGXN.csproj.AssemblyReference.cache
+D:\github\H5509_V2_Magnific\IHardwareGXN\obj\Debug\IHardwareGXN.csproj.CoreCompileInputs.cache
+D:\github\H5509_V2_Magnific\IHardwareGXN\obj\Debug\IHardwareGXN.csproj.CopyComplete
+D:\github\H5509_V2_Magnific\IHardwareGXN\obj\Debug\IHardwareGXN.dll
+D:\github\H5509_V2_Magnific\IHardwareGXN\obj\Debug\IHardwareGXN.pdb

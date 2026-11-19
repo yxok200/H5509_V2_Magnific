@@ -34,3 +34,9 @@ C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\Motio
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\MotionCommon\obj\Debug\MotionCommon.csproj.CoreCompileInputs.cache
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\MotionCommon\obj\Debug\MotionCommon.dll
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\MotionCommon\obj\Debug\MotionCommon.pdb
+D:\github\H5509_V2_Magnific\MotionCommon\bin\Debug\MotionCommon.dll
+D:\github\H5509_V2_Magnific\MotionCommon\bin\Debug\MotionCommon.pdb
+D:\github\H5509_V2_Magnific\MotionCommon\obj\Debug\MotionCommon.csproj.AssemblyReference.cache
+D:\github\H5509_V2_Magnific\MotionCommon\obj\Debug\MotionCommon.csproj.CoreCompileInputs.cache
+D:\github\H5509_V2_Magnific\MotionCommon\obj\Debug\MotionCommon.dll
+D:\github\H5509_V2_Magnific\MotionCommon\obj\Debug\MotionCommon.pdb

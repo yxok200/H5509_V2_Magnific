@@ -42,3 +42,12 @@ C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\Therm
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\Thermostat\obj\Debug\Thermostat.csproj.Up2Date
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\Thermostat\obj\Debug\Thermostat.dll
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\Thermostat\obj\Debug\Thermostat.pdb
+D:\github\H5509_V2_Magnific\Thermostat\bin\Debug\Thermostat.dll
+D:\github\H5509_V2_Magnific\Thermostat\bin\Debug\Thermostat.pdb
+D:\github\H5509_V2_Magnific\Thermostat\bin\Debug\SiCommunication.dll
+D:\github\H5509_V2_Magnific\Thermostat\bin\Debug\Newtonsoft.Json.dll
+D:\github\H5509_V2_Magnific\Thermostat\obj\Debug\Thermostat.csproj.AssemblyReference.cache
+D:\github\H5509_V2_Magnific\Thermostat\obj\Debug\Thermostat.csproj.CoreCompileInputs.cache
+D:\github\H5509_V2_Magnific\Thermostat\obj\Debug\Thermostat.csproj.CopyComplete
+D:\github\H5509_V2_Magnific\Thermostat\obj\Debug\Thermostat.dll
+D:\github\H5509_V2_Magnific\Thermostat\obj\Debug\Thermostat.pdb

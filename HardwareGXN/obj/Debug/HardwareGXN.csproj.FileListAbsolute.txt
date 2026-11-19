@@ -76,3 +76,16 @@ C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\Hardw
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\HardwareGXN\obj\Debug\Hardware.9378FFA3.Up2Date
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\HardwareGXN\obj\Debug\HardwareGXN.dll
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\HardwareGXN\obj\Debug\HardwareGXN.pdb
+D:\github\H5509_V2_Magnific\HardwareGXN\bin\Debug\HardwareGXN.dll
+D:\github\H5509_V2_Magnific\HardwareGXN\bin\Debug\HardwareGXN.pdb
+D:\github\H5509_V2_Magnific\HardwareGXN\bin\Debug\IHardwareGXN.dll
+D:\github\H5509_V2_Magnific\HardwareGXN\bin\Debug\MotionCommon.dll
+D:\github\H5509_V2_Magnific\HardwareGXN\bin\Debug\IHardwareGXN.pdb
+D:\github\H5509_V2_Magnific\HardwareGXN\bin\Debug\MotionCommon.pdb
+D:\github\H5509_V2_Magnific\HardwareGXN\obj\Debug\HardwareGXN.csproj.AssemblyReference.cache
+D:\github\H5509_V2_Magnific\HardwareGXN\obj\Debug\HardwareGXN.GSNAxisCard.FrmGSN.resources
+D:\github\H5509_V2_Magnific\HardwareGXN\obj\Debug\HardwareGXN.csproj.GenerateResource.cache
+D:\github\H5509_V2_Magnific\HardwareGXN\obj\Debug\HardwareGXN.csproj.CoreCompileInputs.cache
+D:\github\H5509_V2_Magnific\HardwareGXN\obj\Debug\HardwareGXN.csproj.CopyComplete
+D:\github\H5509_V2_Magnific\HardwareGXN\obj\Debug\HardwareGXN.dll
+D:\github\H5509_V2_Magnific\HardwareGXN\obj\Debug\HardwareGXN.pdb

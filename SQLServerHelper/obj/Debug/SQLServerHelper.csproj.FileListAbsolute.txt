@@ -28,3 +28,9 @@ C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\SQLSe
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\SQLServerHelper\obj\Debug\SQLServerHelper.csproj.CoreCompileInputs.cache
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\SQLServerHelper\obj\Debug\SQLServerHelper.dll
 C:\Users\mxdx\Desktop\HarnessWorkSpace\H5509_V2_Magnific\H5509_V2_Magnific\SQLServerHelper\obj\Debug\SQLServerHelper.pdb
+D:\github\H5509_V2_Magnific\SQLServerHelper\bin\Debug\SQLServerHelper.dll
+D:\github\H5509_V2_Magnific\SQLServerHelper\bin\Debug\SQLServerHelper.pdb
+D:\github\H5509_V2_Magnific\SQLServerHelper\obj\Debug\SQLServerHelper.csproj.AssemblyReference.cache
+D:\github\H5509_V2_Magnific\SQLServerHelper\obj\Debug\SQLServerHelper.csproj.CoreCompileInputs.cache
+D:\github\H5509_V2_Magnific\SQLServerHelper\obj\Debug\SQLServerHelper.dll
+D:\github\H5509_V2_Magnific\SQLServerHelper\obj\Debug\SQLServerHelper.pdb

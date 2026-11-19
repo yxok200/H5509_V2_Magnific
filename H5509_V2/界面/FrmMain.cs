@@ -448,7 +448,7 @@ namespace H5509_V2
             {
                 _授权到期提醒Timer = new System.Windows.Forms.Timer
                 {
-                    Interval = (int)Math.Max(60000, APPmaster.授权到期提醒间隔.TotalMilliseconds)
+                    Interval = (int)Math.Max(60000, APPmaster.授权到期提醒间隔.TotalMilliseconds) //2h = 2 × 60 × 60 × 1000 = 7200000 ms
                 };
                 _授权到期提醒Timer.Tick += (sender2, e2) => APPmaster.检查授权到期提醒();
                 _授权到期提醒Timer.Start();
@@ -852,7 +852,7 @@ namespace H5509_V2
                         {
                             form_alarm.Activate();
                             form_alarm.Show();
-                            //form_alarm.TopLevel = true;
+                            ///form_alarm.TopLevel = true;
                             for (int i = 0; i < Listcode.Count; i++)
                             {
                                 form_alarm.QueueCode.Enqueue(Listcode[i]); //将报警代码放入队列

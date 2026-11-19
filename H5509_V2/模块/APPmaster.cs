@@ -26,6 +26,7 @@ using Sunny.UI;
 using TextFileLogger;
 using Thermostat;
 using static System.Windows.Forms.Design.AxImporter;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using static H5509_V2.APPmaster;
 using static H5509_V2.ForMain;
 using Ttimer = System.Timers.Timer;
@@ -343,7 +344,7 @@ namespace H5509_V2
         public static int 授权到期提醒天数 = 7;
 
         /// <summary>提醒间隔（可按需修改）</summary>
-        public static TimeSpan 授权到期提醒间隔 = TimeSpan.FromHours(2);
+        public static TimeSpan 授权到期提醒间隔 = new TimeSpan(2, 0, 0); //.FromHours(2);
 
         /// <summary>提醒报警在报警列表里保留的秒数（避免一直亮红灯/堆积）</summary>
         public static int 授权到期提醒显示秒 = 3600; //这里设置为 3600 秒（1 小时），在报警列表里保留 1 小时后自动消失
@@ -351,6 +352,10 @@ namespace H5509_V2
         /// <summary>下一次允许提醒的时间</summary>
         private static DateTime _授权到期下次提醒时间 = DateTime.MinValue;
 
+        public static string DaysLeft;
+        public static string ExpiryText;
+        public static string RuntimeRemainingText;
+        public static string RuntimeRemainingDaysText;
         /// <summary>
         /// 检查授权剩余期限：临近到期（日历剩余天数或运行额度剩余天数 ≤ 授权到期提醒天数）时，
         /// 按 授权到期提醒间隔 触发一次报警提示。
@@ -362,32 +367,46 @@ namespace H5509_V2
                 TLicense.LicenseValidationResult status = TLicense.LicenseService.Current.Status;
                 if (status == null || !status.IsValid || status.Payload == null) return;
 
+                if (设备状态 != 0) return;
+
+                //if (DateTime.Now < _授权到期下次提醒时间) return;
+
                 string message = null;
 
                 if (status.Payload.HasCalendarExpiry)
                 {
                     if (status.DaysLeft >= 0 && status.DaysLeft <= 授权到期提醒天数)
                     {
+                        DaysLeft = status.DaysLeft.ToString();
+                        ExpiryText = status.ExpiryText;
+                        RunLog("[Code]1400501,[Msg]软件授权将于 " + DaysLeft + " 天后到期（" + ExpiryText + "），请及时续期。", LogType.AlarmLog);
+                        APPmaster.Listcode.Add("1400501");
                         message = "软件授权将于 " + status.DaysLeft + " 天后到期（" + status.ExpiryText + "），请及时续期。";
+                        ProgramPause = true;
+                        IsPause = true;
+
                     }
                 }
                 else if (status.Payload.HasRuntimeLimit)
                 {
                     if (status.RuntimeRemainingDays >= 0 && status.RuntimeRemainingDays <= 授权到期提醒天数)
                     {
-                        message = "软件授权剩余运行时长 " + status.RuntimeRemainingText +
-                                  "（约 " + status.RuntimeRemainingDaysText + "），请及时续期。";
+                        RuntimeRemainingText = status.RuntimeRemainingText;
+                        RuntimeRemainingDaysText = status.RuntimeRemainingDaysText;
+                        RunLog($"[Code]1400502,[Msg]软件授权剩余运行时长 {RuntimeRemainingText}（约 {RuntimeRemainingDaysText}），请及时续期。", LogType.AlarmLog);
+                        APPmaster.Listcode.Add("1400502");
+                        message = "软件授权剩余运行时长 " + status.RuntimeRemainingText + "（约 " + status.RuntimeRemainingDaysText + "），请及时续期。";
+                        ProgramPause = true;
+                        IsPause = true;
                     }
                 }
 
-                if (string.IsNullOrEmpty(message)) return;
-                if (DateTime.Now < _授权到期下次提醒时间) return;
+                //if (string.IsNullOrEmpty(message)) return;
+                //if (DateTime.Now < _授权到期下次提醒时间) return;
 
-                _授权到期下次提醒时间 = DateTime.Now.Add(授权到期提醒间隔);
+                //_授权到期下次提醒时间 = DateTime.Now.Add(授权到期提醒间隔);
 
-                try { form_alarm?.RaiseExpireSoonAlarm(message, 授权到期提醒显示秒); } catch { }
-                RunLog("",LogType.AlarmLog);
-                APPmaster.Listcode.Add("1400501");
+                //try { form_alarm?.RaiseExpireSoonAlarm(message, 授权到期提醒显示秒); } catch { }
             }
             catch { }
         }

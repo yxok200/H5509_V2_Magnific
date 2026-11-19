@@ -1,0 +1,708 @@
+2026-11-19 09:13:01  =>  参数初始化...
+2026-11-19 09:13:01  =>  参数初始化完成
+2026-11-19 09:13:01  =>  GTN_Open(5,1):(-6)
+2026-11-19 09:13:02  =>  [error][2026-11-19 09:13:02]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 09:13:05  =>  加载已有文件失败: D:\github\H5509_V2_Magnific\H5509_V2\bin\Debug\Logs\202611\Log_20261118-155345.xlsx
+压缩部分具有不一致的数据长度。
+2026-11-19 09:15:02  =>  创建新文件: D:\github\H5509_V2_Magnific\H5509_V2\bin\Debug\Logs\202611\Log_20261119-091305.xlsx
+2026-11-19 09:18:13  =>  参数初始化...
+2026-11-19 09:18:13  =>  参数初始化完成
+2026-11-19 09:18:13  =>  GTN_Open(5,1):(-6)
+2026-11-19 09:18:13  =>  [error][2026-11-19 09:18:13]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 09:23:00  =>  参数初始化...
+2026-11-19 09:23:00  =>  参数初始化完成
+2026-11-19 09:23:00  =>  GTN_Open(5,1):(-6)
+2026-11-19 09:23:00  =>  [error][2026-11-19 09:23:00]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 09:28:42  =>  参数初始化...
+2026-11-19 09:28:42  =>  参数初始化完成
+2026-11-19 09:28:42  =>  GTN_Open(5,1):(-6)
+2026-11-19 09:28:42  =>  [error][2026-11-19 09:28:42]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 09:28:46  =>  加载已有文件失败: D:\github\H5509_V2_Magnific\H5509_V2\bin\Debug\Logs\202611\Log_20261119-091305.xlsx
+压缩部分具有不一致的数据长度。
+2026-11-19 09:28:46  =>  加载已有文件失败: D:\github\H5509_V2_Magnific\H5509_V2\bin\Debug\Logs\202611\Log_20261118-155345.xlsx
+压缩部分具有不一致的数据长度。
+2026-11-19 09:28:55  =>  创建新文件: D:\github\H5509_V2_Magnific\H5509_V2\bin\Debug\Logs\202611\Log_20261119-092846.xlsx
+2026-11-19 09:31:00  =>  参数初始化...
+2026-11-19 09:31:00  =>  参数初始化完成
+2026-11-19 09:31:00  =>  GTN_Open(5,1):(-6)
+2026-11-19 09:31:00  =>  [error][2026-11-19 09:31:00]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 09:34:59  =>  参数初始化...
+2026-11-19 09:34:59  =>  参数初始化完成
+2026-11-19 09:34:59  =>  GTN_Open(5,1):(-6)
+2026-11-19 09:34:59  =>  [error][2026-11-19 09:34:59]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 09:36:39  =>  参数初始化...
+2026-11-19 09:36:39  =>  参数初始化完成
+2026-11-19 09:36:39  =>  GTN_Open(5,1):(-6)
+2026-11-19 09:36:39  =>  [error][2026-11-19 09:36:39]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 09:38:31  =>  参数初始化...
+2026-11-19 09:38:31  =>  参数初始化完成
+2026-11-19 09:38:31  =>  GTN_Open(5,1):(-6)
+2026-11-19 09:38:32  =>  [error][2026-11-19 09:38:31]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 09:41:33  =>  参数初始化...
+2026-11-19 09:41:33  =>  参数初始化完成
+2026-11-19 09:41:33  =>  GTN_Open(5,1):(-6)
+2026-11-19 09:41:33  =>  [error][2026-11-19 09:41:33]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 09:41:36  =>  加载已有文件失败: D:\github\H5509_V2_Magnific\H5509_V2\bin\Debug\Logs\202611\Log_20261119-092846.xlsx
+压缩部分具有不一致的数据长度。
+2026-11-19 09:41:36  =>  加载已有文件失败: D:\github\H5509_V2_Magnific\H5509_V2\bin\Debug\Logs\202611\Log_20261119-091305.xlsx
+压缩部分具有不一致的数据长度。
+2026-11-19 09:41:36  =>  加载已有文件失败: D:\github\H5509_V2_Magnific\H5509_V2\bin\Debug\Logs\202611\Log_20261118-155345.xlsx
+压缩部分具有不一致的数据长度。
+2026-11-19 09:41:36  =>  创建新文件: D:\github\H5509_V2_Magnific\H5509_V2\bin\Debug\Logs\202611\Log_20261119-094136.xlsx
+2026-11-19 09:59:28  =>  参数初始化...
+2026-11-19 09:59:28  =>  参数初始化完成
+2026-11-19 09:59:28  =>  GTN_Open(5,1):(-6)
+2026-11-19 09:59:29  =>  [error][2026-11-19 09:59:29]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 10:06:35  =>  参数初始化...
+2026-11-19 10:06:35  =>  参数初始化完成
+2026-11-19 10:06:35  =>  GTN_Open(5,1):(-6)
+2026-11-19 10:06:35  =>  [error][2026-11-19 10:06:35]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 10:14:56  =>  参数初始化...
+2026-11-19 10:14:56  =>  参数初始化完成
+2026-11-19 10:14:56  =>  GTN_Open(5,1):(-6)
+2026-11-19 10:14:56  =>  [error][2026-11-19 10:14:56]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 10:19:15  =>  参数初始化...
+2026-11-19 10:19:15  =>  参数初始化完成
+2026-11-19 10:19:15  =>  GTN_Open(5,1):(-6)
+2026-11-19 10:19:15  =>  [error][2026-11-19 10:19:15]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 15:21:02  =>  参数初始化...
+2026-11-19 15:21:02  =>  参数初始化完成
+2026-11-19 15:21:02  =>  GTN_Open(5,1):(-6)
+2026-11-19 15:21:02  =>  [error][2026-11-19 15:21:02]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 15:35:24  =>  参数初始化...
+2026-11-19 15:35:24  =>  参数初始化完成
+2026-11-19 15:35:24  =>  GTN_Open(5,1):(-6)
+2026-11-19 15:35:24  =>  [error][2026-11-19 15:35:24]：InitCard() System.Exception: 执行指令:  GT_Open
+打开控制器失败(-6)
+   在 HardwareGXN.GSNAxisController.ErrorHandler(String command, Int16 error) 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 149
+   在 HardwareGXN.GSNAxisController.InitCard() 位置 D:\github\H5509_V2_Magnific\HardwareGXN\GSNAxisCard\GSNAxisController.cs:行号 35
+2026-11-19 15:44:04  =>  设备状态 = 0;
+2026-11-19 15:44:04  =>  空跑模式 = False;
+2026-11-19 15:44:04  =>  Tray盘模式 = True;
+2026-11-19 15:44:04  =>  无测试机模式 = False;
+2026-11-19 15:44:04  =>  温控达温 = False;
+2026-11-19 15:44:04  =>  初次达温 = False;
+2026-11-19 15:44:04  =>  H5509归零 = False;
+2026-11-19 15:44:04  =>  H5509正在归零 = False;
+2026-11-19 15:44:04  =>  H5509初始化 = False;
+2026-11-19 15:44:04  =>  H5509正在初始化 = False;
+2026-11-19 15:44:04  =>  结批标记 = False;
+2026-11-19 15:44:05  =>  正在结批 = False;
+2026-11-19 15:44:05  =>  结批完成 = False;
+2026-11-19 15:44:05  =>  强制结批标记 = False;
+2026-11-19 15:44:05  =>  一个循环标记 = False;
+2026-11-19 15:44:05  =>  一个循环中 = False;
+2026-11-19 15:44:05  =>  一个循环完成 = False;
+2026-11-19 15:44:05  =>  结批选项选择中 = False;
+2026-11-19 15:44:05  =>  一个循环选项选择中 = False;
+2026-11-19 15:44:05  =>  后方定点停止允许 = False;
+2026-11-19 15:44:05  =>  前方定点停止允许 = False;
+2026-11-19 15:44:05  =>  开舱门上顶标记 = False;
+2026-11-19 15:44:05  =>  Load舱门上顶标记 = False;
+2026-11-19 15:44:05  =>  Empty舱门上顶标记 = False;
+2026-11-19 15:44:05  =>  Auto1舱门上顶标记 = False;
+2026-11-19 15:44:05  =>  Auto2舱门上顶标记 = False;
+2026-11-19 15:44:05  =>  Load舱门开启标记 = 0;
+2026-11-19 15:44:05  =>  Empty舱门开启标记 = 0;
+2026-11-19 15:44:05  =>  Auto1舱门开启标记 = 0;
+2026-11-19 15:44:05  =>  Auto2舱门开启标记 = 0;
+2026-11-19 15:44:05  =>  Empty下降回零开关 = False;
+2026-11-19 15:44:05  =>  Load下降回零开关 = False;
+2026-11-19 15:44:05  =>  Auto1下降回零开关 = False;
+2026-11-19 15:44:05  =>  Auto2下降回零开关 = False;
+2026-11-19 15:44:05  =>  Empty正在下降回零 = False;
+2026-11-19 15:44:05  =>  Load正在下降回零 = False;
+2026-11-19 15:44:05  =>  Auto1正在下降回零 = False;
+2026-11-19 15:44:05  =>  Auto2正在下降回零 = False;
+2026-11-19 15:44:05  =>  Empty舱门正在上顶 = False;
+2026-11-19 15:44:05  =>  Load舱门正在上顶 = False;
+2026-11-19 15:44:05  =>  Auto1舱门正在上顶 = False;
+2026-11-19 15:44:05  =>  Auto2舱门正在上顶 = False;
+2026-11-19 15:44:05  =>  Load换盘标记 = False;
+2026-11-19 15:44:05  =>  Auto1换盘标记 = False;
+2026-11-19 15:44:05  =>  Auto2换盘标记 = False;
+2026-11-19 15:44:05  =>  Auto等待换盘标记 = False;
+2026-11-19 15:44:05  =>  保存Auto1放料个数 = 0;
+2026-11-19 15:44:06  =>  保存Auto2放料个数 = 0;
+2026-11-19 15:44:06  =>  出料正在Auto1放料 = False;
+2026-11-19 15:44:06  =>  出料正在Auto2放料 = False;
+2026-11-19 15:44:06  =>  Auto1正在侧敲 = False;
+2026-11-19 15:44:06  =>  Auto2正在侧敲 = False;
+2026-11-19 15:44:06  =>  Fix1Tray盘放置标记 = False;
+2026-11-19 15:44:06  =>  Fix1Tray盘拿走标记 = False;
+2026-11-19 15:44:06  =>  Fix2Tray盘放置标记 = False;
+2026-11-19 15:44:06  =>  Fix2Tray盘拿走标记 = False;
+2026-11-19 15:44:06  =>  Fix3Tray盘放置标记 = False;
+2026-11-19 15:44:06  =>  Fix3Tray盘拿走标记 = False;
+2026-11-19 15:44:06  =>  总良率报警间隔计数 = 0;
+2026-11-19 15:44:06  =>  Socket使用次数超限数 = 0;
+2026-11-19 15:44:06  =>  温控器读取Site1_Site8探测温度异常 = False;
+2026-11-19 15:44:06  =>  温控器读取Site9_Site16探测温度异常 = False;
+2026-11-19 15:44:06  =>  温控器读取加热盘探测温度异常 = False;
+2026-11-19 15:44:06  =>  温控器读取Site1_Site8设定温度异常 = False;
+2026-11-19 15:44:06  =>  温控器读取Site9_Site16设定温度异常 = False;
+2026-11-19 15:44:06  =>  温控器读取加热盘设定温度异常 = False;
+2026-11-19 15:44:06  =>  温控器设定Site1_Site8温度异常 = False;
+2026-11-19 15:44:06  =>  温控器设定Site9_Site16温度异常 = False;
+2026-11-19 15:44:06  =>  温控器设定加热盘温度异常 = False;
+2026-11-19 15:44:06  =>  温控器读取_设定温度报警 = True;
+2026-11-19 15:44:06  =>  报警次数 = 0;
+2026-11-19 15:44:06  =>  正在入料的Site = 99;
+2026-11-19 15:44:06  =>  Dout128PassNumber=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;
+2026-11-19 15:44:06  =>  Dout128FailNumber=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;
+2026-11-19 15:44:06  =>  SiteTestState = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;
+2026-11-19 15:44:06  =>  SiteTestIC[0] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:06  =>  doutContinueFail[0] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:06  =>  doutContinuePass[0] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:06  =>  单dut总不良计数[0] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:06  =>  单dut总不良累计计数[0] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:06  =>  SiteTestBin[0] = ,,,,,,,;
+2026-11-19 15:44:07  =>  SiteTestIC[1] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:07  =>  doutContinueFail[1] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  doutContinuePass[1] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  单dut总不良计数[1] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  单dut总不良累计计数[1] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  SiteTestBin[1] = ,,,,,,,;
+2026-11-19 15:44:07  =>  SiteTestIC[2] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:07  =>  doutContinueFail[2] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  doutContinuePass[2] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  单dut总不良计数[2] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  单dut总不良累计计数[2] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  SiteTestBin[2] = ,,,,,,,;
+2026-11-19 15:44:07  =>  SiteTestIC[3] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:07  =>  doutContinueFail[3] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  doutContinuePass[3] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  单dut总不良计数[3] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  单dut总不良累计计数[3] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  SiteTestBin[3] = ,,,,,,,;
+2026-11-19 15:44:07  =>  SiteTestIC[4] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:07  =>  doutContinueFail[4] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  doutContinuePass[4] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  单dut总不良计数[4] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  单dut总不良累计计数[4] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  SiteTestBin[4] = ,,,,,,,;
+2026-11-19 15:44:07  =>  SiteTestIC[5] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:07  =>  doutContinueFail[5] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  doutContinuePass[5] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  单dut总不良计数[5] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  单dut总不良累计计数[5] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  SiteTestBin[5] = ,,,,,,,;
+2026-11-19 15:44:07  =>  SiteTestIC[6] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:07  =>  doutContinueFail[6] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  doutContinuePass[6] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:07  =>  单dut总不良计数[6] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  单dut总不良累计计数[6] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  SiteTestBin[6] = ,,,,,,,;
+2026-11-19 15:44:08  =>  SiteTestIC[7] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:08  =>  doutContinueFail[7] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  doutContinuePass[7] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  单dut总不良计数[7] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  单dut总不良累计计数[7] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  SiteTestBin[7] = ,,,,,,,;
+2026-11-19 15:44:08  =>  SiteTestIC[8] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:08  =>  doutContinueFail[8] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  doutContinuePass[8] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  单dut总不良计数[8] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  单dut总不良累计计数[8] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  SiteTestBin[8] = ,,,,,,,;
+2026-11-19 15:44:08  =>  SiteTestIC[9] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:08  =>  doutContinueFail[9] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  doutContinuePass[9] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  单dut总不良计数[9] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  单dut总不良累计计数[9] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  SiteTestBin[9] = ,,,,,,,;
+2026-11-19 15:44:08  =>  SiteTestIC[10] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:08  =>  doutContinueFail[10] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  doutContinuePass[10] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  单dut总不良计数[10] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  单dut总不良累计计数[10] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  SiteTestBin[10] = ,,,,,,,;
+2026-11-19 15:44:08  =>  SiteTestIC[11] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:08  =>  doutContinueFail[11] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  doutContinuePass[11] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  单dut总不良计数[11] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  单dut总不良累计计数[11] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  SiteTestBin[11] = ,,,,,,,;
+2026-11-19 15:44:08  =>  SiteTestIC[12] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:08  =>  doutContinueFail[12] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:08  =>  doutContinuePass[12] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  单dut总不良计数[12] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  单dut总不良累计计数[12] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  SiteTestBin[12] = ,,,,,,,;
+2026-11-19 15:44:09  =>  SiteTestIC[13] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:09  =>  doutContinueFail[13] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  doutContinuePass[13] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  单dut总不良计数[13] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  单dut总不良累计计数[13] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  SiteTestBin[13] = ,,,,,,,;
+2026-11-19 15:44:09  =>  SiteTestIC[14] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:09  =>  doutContinueFail[14] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  doutContinuePass[14] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  单dut总不良计数[14] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  单dut总不良累计计数[14] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  SiteTestBin[14] = ,,,,,,,;
+2026-11-19 15:44:09  =>  SiteTestIC[15] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:09  =>  doutContinueFail[15] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  doutContinuePass[15] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  单dut总不良计数[15] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  单dut总不良累计计数[15] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:09  =>  SiteTestBin[15] = ,,,,,,,;
+2026-11-19 15:44:09  =>  入料IC忽略 = False;
+2026-11-19 15:44:09  =>  入料IC吸不起结批 = False;
+2026-11-19 15:44:09  =>  无待测盘结批 = False;
+2026-11-19 15:44:09  =>  出料IC忽略 = False;
+2026-11-19 15:44:09  =>  测试IC忽略 = False;
+2026-11-19 15:44:09  =>  BinSaveQueue=null
+2026-11-19 15:44:09  =>  InSiteQueue=null
+2026-11-19 15:44:09  =>  OutSiteQueue=null
+2026-11-19 15:44:09  =>  载入数 = 0;
+2026-11-19 15:44:09  =>  UphNumber = 0;
+2026-11-19 15:44:09  =>  Auto1数量 = 0;
+2026-11-19 15:44:09  =>  Auto2数量 = 0;
+2026-11-19 15:44:09  =>  Fix1数量 = 0;
+2026-11-19 15:44:10  =>  Fix2数量 = 0;
+2026-11-19 15:44:10  =>  Fix3数量 = 0;
+2026-11-19 15:44:10  =>  Other数量 = 0;
+2026-11-19 15:44:10  =>  空盘上顶到最大值 = False;
+2026-11-19 15:44:10  =>  空盘下降到最小值 = False;
+2026-11-19 15:44:10  =>  Auto1Tray盘数量 = 0;
+2026-11-19 15:44:10  =>  Auto2Tray盘数量 = 0;
+2026-11-19 15:44:10  =>  测试手臂吸不起数量 = 0;
+2026-11-19 15:44:10  =>  入料手臂吸料不起数量 = 0;
+2026-11-19 15:44:10  =>  出料手臂吸料不起数量  = 0;
+2026-11-19 15:44:10  =>  测试手臂料放歪数量  = 0;
+2026-11-19 15:44:10  =>  Auto1料仓满盘标记 = False;
+2026-11-19 15:44:10  =>  Auto2料仓满盘标记 = False;
+2026-11-19 15:44:10  =>  Auto1放盘等待标记 = False;
+2026-11-19 15:44:10  =>  Auto2放盘等待标记 = False;
+2026-11-19 15:44:10  =>  Empty料仓打开标记 = False;
+2026-11-19 15:44:10  =>  Load料仓打开标记 = False;
+2026-11-19 15:44:10  =>  Auto1料仓打开标记 = False;
+2026-11-19 15:44:10  =>  Auto2料仓打开标记 = False;
+2026-11-19 15:44:10  =>  入料手臂工作完成标记 = False;
+2026-11-19 15:44:10  =>  加热盘停止入料标记 = False;
+2026-11-19 15:44:10  =>  入料手臂停止工作标记 = False;
+2026-11-19 15:44:10  =>  测试手臂入料停止工作标记 = False;
+2026-11-19 15:44:10  =>  测试手臂出料停止工作标记 = False;
+2026-11-19 15:44:10  =>  出料手臂出料停止工作标记 = False;
+2026-11-19 15:44:10  =>  飞梭停止工作 = False;
+2026-11-19 15:44:10  =>  出料手臂工作完成标记 = False;
+2026-11-19 15:44:10  =>  测试手臂工作完成标记 = False;
+2026-11-19 15:44:10  =>  入料手臂抓料等待标记 = False;
+2026-11-19 15:44:10  =>  飞梭移动状态 = 0;
+2026-11-19 15:44:10  =>  飞梭前入料状态 = 0;
+2026-11-19 15:44:10  =>  飞梭前出料状态 = 0;
+2026-11-19 15:44:10  =>  飞梭后入料状态 = 0;
+2026-11-19 15:44:10  =>  飞梭后出料状态 = 0;
+2026-11-19 15:44:10  =>  Empty上顶标记 = 1;
+2026-11-19 15:44:11  =>  Load上顶标记 = 1;
+2026-11-19 15:44:11  =>  Auto1上顶标记 = 1;
+2026-11-19 15:44:11  =>  Auto2上顶标记 = 1;
+2026-11-19 15:44:11  =>  Empty下降标记 = 1;
+2026-11-19 15:44:11  =>  Load下降标记 = 1;
+2026-11-19 15:44:11  =>  Empty下降回零标记 = 1;
+2026-11-19 15:44:11  =>  Load下降回零标记 = 1;
+2026-11-19 15:44:11  =>  Auto1下降回零标记 = 1;
+2026-11-19 15:44:11  =>  Auto2下降回零标记 = 1;
+2026-11-19 15:44:11  =>  抓盘手臂取Empty空盘标记 = 1;
+2026-11-19 15:44:11  =>  抓盘手臂取Load空盘标记 = 1;
+2026-11-19 15:44:11  =>  抓盘手臂给Auto1空盘标记 = 1;
+2026-11-19 15:44:11  =>  抓盘手臂给Auto2空盘标记 = 1;
+2026-11-19 15:44:11  =>  抓盘手臂放空盘到Empty标记 = 1;
+2026-11-19 15:44:11  =>  抓盘手臂放空盘到Auto1标记 = 1;
+2026-11-19 15:44:11  =>  抓盘手臂放空盘到Auto2标记 = 1;
+2026-11-19 15:44:11  =>  InNozzleIC = False;
+2026-11-19 15:44:11  =>  InNozzleICOpen = False,False,False,False;
+2026-11-19 15:44:11  =>  OutNozzleIC = False;
+2026-11-19 15:44:11  =>  OutNozzleICOpen = False,False,False,False;
+2026-11-19 15:44:11  =>  TestNozzleIC = False;
+2026-11-19 15:44:11  =>  TestNozzleICOpen = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:11  =>  正在吸取后入料 = False,False,False,False,False,False,False,False
+2026-11-19 15:44:11  =>  正在放置前入料 = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:11  =>  飞梭前入料IC = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:11  =>  飞梭前出料IC = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:11  =>  飞梭后入料IC = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:11  =>  飞梭后出料IC = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:11  =>  放料IC目标值 = True,True,True,True,True,True,True,True;
+2026-11-19 15:44:11  =>  PS初始化流程.StepID = 500;
+2026-11-19 15:44:11  =>  PS初始化流程.Processing = False;
+2026-11-19 15:44:11  =>  PS结批流程.StepID = 500;
+2026-11-19 15:44:11  =>  PS结批流程.Processing = False;
+2026-11-19 15:44:11  =>  PS入料手臂吸放料流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS入料手臂吸放料流程.Processing = False;
+2026-11-19 15:44:12  =>  PS出料手臂吸放料流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS出料手臂吸放料流程.Processing = False;
+2026-11-19 15:44:12  =>  PS入飞梭移动流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS入飞梭移动流程.Processing = False;
+2026-11-19 15:44:12  =>  PS测试手臂取待测料流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS测试手臂取待测料流程.Processing = False;
+2026-11-19 15:44:12  =>  PS测试手臂取已测料流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS测试手臂取已测料流程.Processing = False;
+2026-11-19 15:44:12  =>  PS测试区气缸下压动作流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS测试区气缸下压动作流程.Processing = False;
+2026-11-19 15:44:12  =>  PS测试区气缸上抬动作流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS测试区气缸上抬动作流程.Processing = False;
+2026-11-19 15:44:12  =>  PS空盘上顶流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS空盘上顶流程.Processing = False;
+2026-11-19 15:44:12  =>  PS空盘下降流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS空盘下降流程.Processing = False;
+2026-11-19 15:44:12  =>  PS空盘下降回零流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS空盘下降回零流程.Processing = False;
+2026-11-19 15:44:12  =>  PS待测盘上顶流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS待测盘上顶流程.Processing = False;
+2026-11-19 15:44:12  =>  PS待测盘下降回零流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS待测盘下降回零流程.Processing = False;
+2026-11-19 15:44:12  =>  PS手动盘1上顶流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS手动盘1上顶流程.Processing = False;
+2026-11-19 15:44:12  =>  PS手动盘1下降回零流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS手动盘1下降回零流程.Processing = False;
+2026-11-19 15:44:12  =>  PS手动盘2上顶流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS手动盘2上顶流程.Processing = False;
+2026-11-19 15:44:12  =>  PS手动盘2下降回零流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS手动盘2下降回零流程.Processing = False;
+2026-11-19 15:44:12  =>  PS抓盘手臂取Empty空盘流程.StepID = 500;
+2026-11-19 15:44:12  =>  PS抓盘手臂取Empty空盘流程.Processing = False;
+2026-11-19 15:44:12  =>  PS抓盘手臂取Load空盘流程.StepID = 500;
+2026-11-19 15:44:13  =>  PS抓盘手臂取Load空盘流程.Processing = False;
+2026-11-19 15:44:13  =>  PS抓盘手臂放空盘到Empty流程.StepID = 500;
+2026-11-19 15:44:13  =>  PS抓盘手臂放空盘到Empty流程.Processing = False;
+2026-11-19 15:44:13  =>  PS抓盘手臂放空盘到Auto1流程.StepID = 500;
+2026-11-19 15:44:13  =>  PS抓盘手臂放空盘到Auto1流程.Processing =False;
+2026-11-19 15:44:13  =>  PS抓盘手臂放空盘到Auto2流程.StepID = 500;
+2026-11-19 15:44:13  =>  PS抓盘手臂放空盘到Auto2流程.Processing=False;
+2026-11-19 15:44:14  =>  设备状态 = 0;
+2026-11-19 15:44:14  =>  空跑模式 = False;
+2026-11-19 15:44:14  =>  Tray盘模式 = True;
+2026-11-19 15:44:14  =>  无测试机模式 = False;
+2026-11-19 15:44:14  =>  温控达温 = False;
+2026-11-19 15:44:14  =>  初次达温 = False;
+2026-11-19 15:44:14  =>  H5509归零 = False;
+2026-11-19 15:44:14  =>  H5509正在归零 = False;
+2026-11-19 15:44:14  =>  H5509初始化 = False;
+2026-11-19 15:44:14  =>  H5509正在初始化 = False;
+2026-11-19 15:44:14  =>  结批标记 = False;
+2026-11-19 15:44:14  =>  正在结批 = False;
+2026-11-19 15:44:14  =>  结批完成 = False;
+2026-11-19 15:44:14  =>  强制结批标记 = False;
+2026-11-19 15:44:14  =>  一个循环标记 = False;
+2026-11-19 15:44:14  =>  一个循环中 = False;
+2026-11-19 15:44:14  =>  一个循环完成 = False;
+2026-11-19 15:44:14  =>  结批选项选择中 = False;
+2026-11-19 15:44:14  =>  一个循环选项选择中 = False;
+2026-11-19 15:44:14  =>  后方定点停止允许 = False;
+2026-11-19 15:44:14  =>  前方定点停止允许 = False;
+2026-11-19 15:44:14  =>  开舱门上顶标记 = False;
+2026-11-19 15:44:14  =>  Load舱门上顶标记 = False;
+2026-11-19 15:44:14  =>  Empty舱门上顶标记 = False;
+2026-11-19 15:44:14  =>  Auto1舱门上顶标记 = False;
+2026-11-19 15:44:14  =>  Auto2舱门上顶标记 = False;
+2026-11-19 15:44:14  =>  Load舱门开启标记 = 0;
+2026-11-19 15:44:14  =>  Empty舱门开启标记 = 0;
+2026-11-19 15:44:14  =>  Auto1舱门开启标记 = 0;
+2026-11-19 15:44:14  =>  Auto2舱门开启标记 = 0;
+2026-11-19 15:44:14  =>  Empty下降回零开关 = False;
+2026-11-19 15:44:14  =>  Load下降回零开关 = False;
+2026-11-19 15:44:14  =>  Auto1下降回零开关 = False;
+2026-11-19 15:44:15  =>  Auto2下降回零开关 = False;
+2026-11-19 15:44:15  =>  Empty正在下降回零 = False;
+2026-11-19 15:44:15  =>  Load正在下降回零 = False;
+2026-11-19 15:44:15  =>  Auto1正在下降回零 = False;
+2026-11-19 15:44:15  =>  Auto2正在下降回零 = False;
+2026-11-19 15:44:15  =>  Empty舱门正在上顶 = False;
+2026-11-19 15:44:15  =>  Load舱门正在上顶 = False;
+2026-11-19 15:44:15  =>  Auto1舱门正在上顶 = False;
+2026-11-19 15:44:15  =>  Auto2舱门正在上顶 = False;
+2026-11-19 15:44:15  =>  Load换盘标记 = False;
+2026-11-19 15:44:15  =>  Auto1换盘标记 = False;
+2026-11-19 15:44:15  =>  Auto2换盘标记 = False;
+2026-11-19 15:44:15  =>  Auto等待换盘标记 = False;
+2026-11-19 15:44:15  =>  保存Auto1放料个数 = 0;
+2026-11-19 15:44:15  =>  保存Auto2放料个数 = 0;
+2026-11-19 15:44:15  =>  出料正在Auto1放料 = False;
+2026-11-19 15:44:15  =>  出料正在Auto2放料 = False;
+2026-11-19 15:44:15  =>  Auto1正在侧敲 = False;
+2026-11-19 15:44:15  =>  Auto2正在侧敲 = False;
+2026-11-19 15:44:15  =>  Fix1Tray盘放置标记 = False;
+2026-11-19 15:44:15  =>  Fix1Tray盘拿走标记 = False;
+2026-11-19 15:44:15  =>  Fix2Tray盘放置标记 = False;
+2026-11-19 15:44:15  =>  Fix2Tray盘拿走标记 = False;
+2026-11-19 15:44:15  =>  Fix3Tray盘放置标记 = False;
+2026-11-19 15:44:15  =>  Fix3Tray盘拿走标记 = False;
+2026-11-19 15:44:15  =>  总良率报警间隔计数 = 0;
+2026-11-19 15:44:15  =>  Socket使用次数超限数 = 0;
+2026-11-19 15:44:15  =>  温控器读取Site1_Site8探测温度异常 = False;
+2026-11-19 15:44:15  =>  温控器读取Site9_Site16探测温度异常 = False;
+2026-11-19 15:44:15  =>  温控器读取加热盘探测温度异常 = False;
+2026-11-19 15:44:15  =>  温控器读取Site1_Site8设定温度异常 = False;
+2026-11-19 15:44:15  =>  温控器读取Site9_Site16设定温度异常 = False;
+2026-11-19 15:44:15  =>  温控器读取加热盘设定温度异常 = False;
+2026-11-19 15:44:15  =>  温控器设定Site1_Site8温度异常 = False;
+2026-11-19 15:44:15  =>  温控器设定Site9_Site16温度异常 = False;
+2026-11-19 15:44:16  =>  温控器设定加热盘温度异常 = False;
+2026-11-19 15:44:16  =>  温控器读取_设定温度报警 = True;
+2026-11-19 15:44:16  =>  报警次数 = 0;
+2026-11-19 15:44:16  =>  正在入料的Site = 99;
+2026-11-19 15:44:16  =>  Dout128PassNumber=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  Dout128FailNumber=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  SiteTestState = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  SiteTestIC[0] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:16  =>  doutContinueFail[0] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  doutContinuePass[0] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  单dut总不良计数[0] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  单dut总不良累计计数[0] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  SiteTestBin[0] = ,,,,,,,;
+2026-11-19 15:44:16  =>  SiteTestIC[1] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:16  =>  doutContinueFail[1] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  doutContinuePass[1] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  单dut总不良计数[1] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  单dut总不良累计计数[1] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  SiteTestBin[1] = ,,,,,,,;
+2026-11-19 15:44:16  =>  SiteTestIC[2] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:16  =>  doutContinueFail[2] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  doutContinuePass[2] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  单dut总不良计数[2] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  单dut总不良累计计数[2] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  SiteTestBin[2] = ,,,,,,,;
+2026-11-19 15:44:16  =>  SiteTestIC[3] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:16  =>  doutContinueFail[3] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  doutContinuePass[3] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  单dut总不良计数[3] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  单dut总不良累计计数[3] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  SiteTestBin[3] = ,,,,,,,;
+2026-11-19 15:44:16  =>  SiteTestIC[4] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:16  =>  doutContinueFail[4] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:16  =>  doutContinuePass[4] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  单dut总不良计数[4] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  单dut总不良累计计数[4] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  SiteTestBin[4] = ,,,,,,,;
+2026-11-19 15:44:17  =>  SiteTestIC[5] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:17  =>  doutContinueFail[5] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  doutContinuePass[5] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  单dut总不良计数[5] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  单dut总不良累计计数[5] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  SiteTestBin[5] = ,,,,,,,;
+2026-11-19 15:44:17  =>  SiteTestIC[6] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:17  =>  doutContinueFail[6] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  doutContinuePass[6] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  单dut总不良计数[6] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  单dut总不良累计计数[6] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  SiteTestBin[6] = ,,,,,,,;
+2026-11-19 15:44:17  =>  SiteTestIC[7] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:17  =>  doutContinueFail[7] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  doutContinuePass[7] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  单dut总不良计数[7] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  单dut总不良累计计数[7] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  SiteTestBin[7] = ,,,,,,,;
+2026-11-19 15:44:17  =>  SiteTestIC[8] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:17  =>  doutContinueFail[8] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  doutContinuePass[8] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  单dut总不良计数[8] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  单dut总不良累计计数[8] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  SiteTestBin[8] = ,,,,,,,;
+2026-11-19 15:44:17  =>  SiteTestIC[9] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:17  =>  doutContinueFail[9] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  doutContinuePass[9] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  单dut总不良计数[9] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  单dut总不良累计计数[9] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:17  =>  SiteTestBin[9] = ,,,,,,,;
+2026-11-19 15:44:17  =>  SiteTestIC[10] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:18  =>  doutContinueFail[10] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  doutContinuePass[10] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  单dut总不良计数[10] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  单dut总不良累计计数[10] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  SiteTestBin[10] = ,,,,,,,;
+2026-11-19 15:44:18  =>  SiteTestIC[11] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:18  =>  doutContinueFail[11] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  doutContinuePass[11] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  单dut总不良计数[11] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  单dut总不良累计计数[11] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  SiteTestBin[11] = ,,,,,,,;
+2026-11-19 15:44:18  =>  SiteTestIC[12] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:18  =>  doutContinueFail[12] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  doutContinuePass[12] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  单dut总不良计数[12] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  单dut总不良累计计数[12] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  SiteTestBin[12] = ,,,,,,,;
+2026-11-19 15:44:18  =>  SiteTestIC[13] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:18  =>  doutContinueFail[13] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  doutContinuePass[13] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  单dut总不良计数[13] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  单dut总不良累计计数[13] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  SiteTestBin[13] = ,,,,,,,;
+2026-11-19 15:44:18  =>  SiteTestIC[14] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:18  =>  doutContinueFail[14] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  doutContinuePass[14] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  单dut总不良计数[14] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  单dut总不良累计计数[14] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  SiteTestBin[14] = ,,,,,,,;
+2026-11-19 15:44:18  =>  SiteTestIC[15] = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:18  =>  doutContinueFail[15] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  doutContinuePass[15] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  单dut总不良计数[15] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  单dut总不良累计计数[15] = 0,0,0,0,0,0,0,0;
+2026-11-19 15:44:18  =>  SiteTestBin[15] = ,,,,,,,;
+2026-11-19 15:44:19  =>  入料IC忽略 = False;
+2026-11-19 15:44:19  =>  入料IC吸不起结批 = False;
+2026-11-19 15:44:19  =>  无待测盘结批 = False;
+2026-11-19 15:44:19  =>  出料IC忽略 = False;
+2026-11-19 15:44:19  =>  测试IC忽略 = False;
+2026-11-19 15:44:19  =>  BinSaveQueue=null
+2026-11-19 15:44:19  =>  InSiteQueue=null
+2026-11-19 15:44:19  =>  OutSiteQueue=null
+2026-11-19 15:44:19  =>  载入数 = 0;
+2026-11-19 15:44:19  =>  UphNumber = 0;
+2026-11-19 15:44:19  =>  Auto1数量 = 0;
+2026-11-19 15:44:19  =>  Auto2数量 = 0;
+2026-11-19 15:44:19  =>  Fix1数量 = 0;
+2026-11-19 15:44:19  =>  Fix2数量 = 0;
+2026-11-19 15:44:19  =>  Fix3数量 = 0;
+2026-11-19 15:44:19  =>  Other数量 = 0;
+2026-11-19 15:44:19  =>  空盘上顶到最大值 = False;
+2026-11-19 15:44:19  =>  空盘下降到最小值 = False;
+2026-11-19 15:44:19  =>  Auto1Tray盘数量 = 0;
+2026-11-19 15:44:19  =>  Auto2Tray盘数量 = 0;
+2026-11-19 15:44:19  =>  测试手臂吸不起数量 = 0;
+2026-11-19 15:44:19  =>  入料手臂吸料不起数量 = 0;
+2026-11-19 15:44:19  =>  出料手臂吸料不起数量  = 0;
+2026-11-19 15:44:19  =>  测试手臂料放歪数量  = 0;
+2026-11-19 15:44:19  =>  Auto1料仓满盘标记 = False;
+2026-11-19 15:44:19  =>  Auto2料仓满盘标记 = False;
+2026-11-19 15:44:19  =>  Auto1放盘等待标记 = False;
+2026-11-19 15:44:19  =>  Auto2放盘等待标记 = False;
+2026-11-19 15:44:19  =>  Empty料仓打开标记 = False;
+2026-11-19 15:44:19  =>  Load料仓打开标记 = False;
+2026-11-19 15:44:19  =>  Auto1料仓打开标记 = False;
+2026-11-19 15:44:19  =>  Auto2料仓打开标记 = False;
+2026-11-19 15:44:19  =>  入料手臂工作完成标记 = False;
+2026-11-19 15:44:19  =>  加热盘停止入料标记 = False;
+2026-11-19 15:44:20  =>  入料手臂停止工作标记 = False;
+2026-11-19 15:44:20  =>  测试手臂入料停止工作标记 = False;
+2026-11-19 15:44:20  =>  测试手臂出料停止工作标记 = False;
+2026-11-19 15:44:20  =>  出料手臂出料停止工作标记 = False;
+2026-11-19 15:44:20  =>  飞梭停止工作 = False;
+2026-11-19 15:44:20  =>  出料手臂工作完成标记 = False;
+2026-11-19 15:44:20  =>  测试手臂工作完成标记 = False;
+2026-11-19 15:44:20  =>  入料手臂抓料等待标记 = False;
+2026-11-19 15:44:20  =>  飞梭移动状态 = 0;
+2026-11-19 15:44:20  =>  飞梭前入料状态 = 0;
+2026-11-19 15:44:20  =>  飞梭前出料状态 = 0;
+2026-11-19 15:44:20  =>  飞梭后入料状态 = 0;
+2026-11-19 15:44:20  =>  飞梭后出料状态 = 0;
+2026-11-19 15:44:20  =>  Empty上顶标记 = 1;
+2026-11-19 15:44:20  =>  Load上顶标记 = 1;
+2026-11-19 15:44:20  =>  Auto1上顶标记 = 1;
+2026-11-19 15:44:20  =>  Auto2上顶标记 = 1;
+2026-11-19 15:44:20  =>  Empty下降标记 = 1;
+2026-11-19 15:44:20  =>  Load下降标记 = 1;
+2026-11-19 15:44:20  =>  Empty下降回零标记 = 1;
+2026-11-19 15:44:20  =>  Load下降回零标记 = 1;
+2026-11-19 15:44:20  =>  Auto1下降回零标记 = 1;
+2026-11-19 15:44:20  =>  Auto2下降回零标记 = 1;
+2026-11-19 15:44:20  =>  抓盘手臂取Empty空盘标记 = 1;
+2026-11-19 15:44:20  =>  抓盘手臂取Load空盘标记 = 1;
+2026-11-19 15:44:20  =>  抓盘手臂给Auto1空盘标记 = 1;
+2026-11-19 15:44:20  =>  抓盘手臂给Auto2空盘标记 = 1;
+2026-11-19 15:44:20  =>  抓盘手臂放空盘到Empty标记 = 1;
+2026-11-19 15:44:20  =>  抓盘手臂放空盘到Auto1标记 = 1;
+2026-11-19 15:44:20  =>  抓盘手臂放空盘到Auto2标记 = 1;
+2026-11-19 15:44:20  =>  InNozzleIC = False;
+2026-11-19 15:44:20  =>  InNozzleICOpen = False,False,False,False;
+2026-11-19 15:44:21  =>  OutNozzleIC = False;
+2026-11-19 15:44:21  =>  OutNozzleICOpen = False,False,False,False;
+2026-11-19 15:44:21  =>  TestNozzleIC = False;
+2026-11-19 15:44:21  =>  TestNozzleICOpen = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:21  =>  正在吸取后入料 = False,False,False,False,False,False,False,False
+2026-11-19 15:44:21  =>  正在放置前入料 = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:21  =>  飞梭前入料IC = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:21  =>  飞梭前出料IC = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:21  =>  飞梭后入料IC = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:21  =>  飞梭后出料IC = False,False,False,False,False,False,False,False;
+2026-11-19 15:44:21  =>  放料IC目标值 = True,True,True,True,True,True,True,True;
+2026-11-19 15:44:21  =>  PS初始化流程.StepID = 500;
+2026-11-19 15:44:21  =>  PS初始化流程.Processing = False;
+2026-11-19 15:44:21  =>  PS结批流程.StepID = 500;
+2026-11-19 15:44:21  =>  PS结批流程.Processing = False;
+2026-11-19 15:44:21  =>  PS入料手臂吸放料流程.StepID = 500;
+2026-11-19 15:44:21  =>  PS入料手臂吸放料流程.Processing = False;
+2026-11-19 15:44:21  =>  PS出料手臂吸放料流程.StepID = 500;
+2026-11-19 15:44:21  =>  PS出料手臂吸放料流程.Processing = False;
+2026-11-19 15:44:21  =>  PS入飞梭移动流程.StepID = 500;
+2026-11-19 15:44:21  =>  PS入飞梭移动流程.Processing = False;
+2026-11-19 15:44:21  =>  PS测试手臂取待测料流程.StepID = 500;
+2026-11-19 15:44:21  =>  PS测试手臂取待测料流程.Processing = False;
+2026-11-19 15:44:21  =>  PS测试手臂取已测料流程.StepID = 500;
+2026-11-19 15:44:21  =>  PS测试手臂取已测料流程.Processing = False;
+2026-11-19 15:44:21  =>  PS测试区气缸下压动作流程.StepID = 500;
+2026-11-19 15:44:21  =>  PS测试区气缸下压动作流程.Processing = False;
+2026-11-19 15:44:21  =>  PS测试区气缸上抬动作流程.StepID = 500;
+2026-11-19 15:44:21  =>  PS测试区气缸上抬动作流程.Processing = False;
+2026-11-19 15:44:21  =>  PS空盘上顶流程.StepID = 500;
+2026-11-19 15:44:21  =>  PS空盘上顶流程.Processing = False;
+2026-11-19 15:44:21  =>  PS空盘下降流程.StepID = 500;
+2026-11-19 15:44:21  =>  PS空盘下降流程.Processing = False;
+2026-11-19 15:44:21  =>  PS空盘下降回零流程.StepID = 500;
+2026-11-19 15:44:22  =>  PS空盘下降回零流程.Processing = False;
+2026-11-19 15:44:22  =>  PS待测盘上顶流程.StepID = 500;
+2026-11-19 15:44:22  =>  PS待测盘上顶流程.Processing = False;
+2026-11-19 15:44:22  =>  PS待测盘下降回零流程.StepID = 500;
+2026-11-19 15:44:22  =>  PS待测盘下降回零流程.Processing = False;
+2026-11-19 15:44:22  =>  PS手动盘1上顶流程.StepID = 500;
+2026-11-19 15:44:22  =>  PS手动盘1上顶流程.Processing = False;
+2026-11-19 15:44:22  =>  PS手动盘1下降回零流程.StepID = 500;
+2026-11-19 15:44:22  =>  PS手动盘1下降回零流程.Processing = False;
+2026-11-19 15:44:22  =>  PS手动盘2上顶流程.StepID = 500;
+2026-11-19 15:44:22  =>  PS手动盘2上顶流程.Processing = False;
+2026-11-19 15:44:22  =>  PS手动盘2下降回零流程.StepID = 500;
+2026-11-19 15:44:22  =>  PS手动盘2下降回零流程.Processing = False;
+2026-11-19 15:44:22  =>  PS抓盘手臂取Empty空盘流程.StepID = 500;
+2026-11-19 15:44:22  =>  PS抓盘手臂取Empty空盘流程.Processing = False;
+2026-11-19 15:44:22  =>  PS抓盘手臂取Load空盘流程.StepID = 500;
+2026-11-19 15:44:22  =>  PS抓盘手臂取Load空盘流程.Processing = False;
+2026-11-19 15:44:22  =>  PS抓盘手臂放空盘到Empty流程.StepID = 500;
+2026-11-19 15:44:22  =>  PS抓盘手臂放空盘到Empty流程.Processing = False;
+2026-11-19 15:44:22  =>  PS抓盘手臂放空盘到Auto1流程.StepID = 500;
+2026-11-19 15:44:22  =>  PS抓盘手臂放空盘到Auto1流程.Processing =False;
+2026-11-19 15:44:22  =>  PS抓盘手臂放空盘到Auto2流程.StepID = 500;
+2026-11-19 15:44:22  =>  PS抓盘手臂放空盘到Auto2流程.Processing=False;
